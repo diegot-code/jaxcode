@@ -1,2 +1,0 @@
-# jaxcode
-The jaxcode folder
